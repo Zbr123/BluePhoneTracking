@@ -1,0 +1,6 @@
+devices:
+  - DVT_DEVICE_109
+testsuite:
+  - 1.5-APK-AUTOMATION\TestcaseSuite\DialValidation\test_dial_validation.robot
+robot_files:
+  - test_dial_validation.robot
